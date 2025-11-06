@@ -1,0 +1,41 @@
+﻿# === Archivos temporales de Visual Studio ===
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === Carpetas de compilación ===
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+
+# === Archivos temporales del sistema ===
+*.log
+*.tmp
+*.cache
+*.dbmdl
+*.bak
+
+# === Configuración local de VS y cache ===
+*.db
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# === Archivos generados automáticamente ===
+*.exe
+*.dll
+*.pdb
+
+# === Configuración del IDE ===
+*.vscode/
+.vscode/
+
+# === Otros ===
+*.userprefs
+_ReSharper*/
+*.resharper
+*.DotSettings.user
